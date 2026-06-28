@@ -1,4 +1,5 @@
-# 🌸 Kawaii Todo List
+# Kawaii Todo List <img width="360" height="360" alt="4dd6dcf603acb09775cb3c6f945aa75bbc6e9c6c" src="https://github.com/user-attachments/assets/0b90a124-14b5-4f5b-9104-ce36b4b42ae2" />
+
 
 A responsive **Kawaii Todo List** user interface built using **HTML5** and **CSS3** based on the provided Figma design. The objective of this project was to recreate the design as accurately as possible using only HTML and CSS, without implementing any JavaScript functionality. The project focuses on layout, typography, colors, spacing, rounded corners, and responsive design while maintaining the cute "kawaii" aesthetic.
 
