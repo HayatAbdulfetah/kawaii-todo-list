@@ -4,11 +4,11 @@ A responsive **Kawaii Todo List** user interface built using **HTML5** and **CSS
 
 The interface features a rounded task input, an add button, sample task items with edit and delete icons, a soft pink theme, a faded bunny watermark, and a bunny mascot at the bottom of the card. The layout is responsive and adapts well to different screen sizes using CSS media queries.
 
----
+
 
 ## 🔗 Live Demo
 
-**Live Site:** https://your-username.github.io/kawaii-todo-list/
+**Live Site:** https://hayatabdulfetah.github.io/kawaii-todo-list/
 
 ---
 
